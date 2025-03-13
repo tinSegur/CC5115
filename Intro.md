@@ -25,3 +25,4 @@ El estilo de programación funcional es un estilo orientado a la evaluación de 
 		- pintwise2: `func2 x = (func1 . func1) x`
 		- pointfree: `func2 = func . func`
 
+ 
