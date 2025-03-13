@@ -13,3 +13,4 @@ El estilo de programación funcional es un estilo orientado a la evaluación de 
 	- Esta inferencia de tipos permite además la inferencia de "clases" de tipos (ej. tipos que permiten operaciones de comparación)
 - Lenguaje funcional puro
 	- Permite razonar ecuacionalmente sobre un programa.
+- _Lazy_: No se computan los resultados hasta que es estrictamente necesario.
