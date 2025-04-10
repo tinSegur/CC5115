@@ -26,3 +26,4 @@ not (not False) = not True =  False
 ### Inducción Estructural
 Aplicable en funciones recursivas donde se utiliza pattern matching para definir casos base y se tienen por otro lado casos recursivos.
 Luego es cuestión de formular la demostración recursiva utilizando los casos base y recursivos apropiados.
+
